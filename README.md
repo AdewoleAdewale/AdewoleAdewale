@@ -25,10 +25,10 @@ I like reading, teaching and sharing my knowledge with other engineers and with 
 
 <ul dir="auto">
 
-<li><a href="https://www.linkedin.com/in/adewole-adewale-ba45ab147/" rel="nofollow"><img src="https://camo.githubusercontent.com/2a65b125a4b07fff0feca976fcf0d37f1ca8f88357c737a8a83badc36d4ecef4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c617572656e74656762616b6f752d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c617572656e74656762616b6f752f" alt="Linkedin follow @AdewoleAdewale" data-canonical-src="https://img.shields.io/badge/-adewoleadewale-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/adewole-adewale-ba45ab147/" style="max-width: 100%;"></a></li>
+
 
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: He/him</li>
-<li>Fell free to DM me on Via WhatApps +234 9042720688  - 🌱 I’m currently learning ...</li>
+<li>Fell free to DM me on Via WhatApps +234 9042720688  - 👯 I’m looking to collaborate ...</li>
 </ul>
 <br>
 <h2 align="left" id="user-content-egbakou-tech" dir="auto"><a id="user-content-favorite-tech" class="anchor" aria-hidden="true" href="#favorite-tech"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Favorite Tech</h2>
